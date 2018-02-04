@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  TodoTableViewController.h
 //  Labb 3
 //
 //  Created by Daniel Martinsson on 2018-02-03.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface TodoTableViewController : UITableViewController
 
 @end
-
